@@ -1,12 +1,6 @@
-# Hannah Neal's Component Library
+# React Boilerplate
 
-## Components
-
-### Pages
-
-### Action Items
-
-### Static Items & Elements
+This boilerplate was created using `npm`, `babel`, `webpack`, and resource(s) listed below. It is light and was not created with `create-react-app`.
 
 ## Resources
 
